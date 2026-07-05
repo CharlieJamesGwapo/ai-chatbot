@@ -8,12 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "highlight.js": "^11.11.1",
+    "js-sha256": "^0.11.1",
     "next": "16.2.10",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-markdown": "^10.1.0",
+    "uuid": "^14.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/highlight.js": "^9.12.4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
